@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+.snakemake
+archaea_assembly_summary.txt
+bacteria_assembly_summary.txt
